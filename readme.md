@@ -1,7 +1,7 @@
 Formatter Bundle
 ================
 
-This is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 8 and 9. 
+This is a fork from https://github.com/nmfmcosta/laravel-formatter which is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 10. 
 
 **All credit goes to the original authors.**
 
@@ -16,7 +16,7 @@ See Parsers and Formats to see supported input / output formats.
 Through command line:
 
 ```bash
-composer require nmfmcosta/laravel-formatter
+composer require happyclicker/laravel-formatter
 ```
 
 Through composer.json:
@@ -24,7 +24,7 @@ Through composer.json:
 ```json
 {
   "require": {
-    "nmfmcosta/laravel-formatter": "1.x"
+    "happyclicker/laravel-formatter": "1.x"
   }
 }
 
